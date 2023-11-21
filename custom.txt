@@ -1,0 +1,6 @@
+Book
+Mobile phone
+Person
+Tablet computer
+Headphones
+Human face
